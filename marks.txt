@@ -1,0 +1,11 @@
+id	 name	         yearofStudy	        mark
+1	 Alain A  	     2                   75
+2	 Michael B  	     3	                 85
+3	 Chen C	             1	                 55
+4	 Caroline D	     2	                 60
+5	 Mohamed E	     2	                 60
+6	 Alex F	             1	                 55
+7	 Sofia O	             3	                 78
+8	 Samir O	             1	                 85
+9	 Rob G	             2	                 78
+10	 Big K	             3    	         55
