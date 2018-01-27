@@ -15,7 +15,7 @@ class database {
 	public static void main(String[] args) throws IOException {
 
 		String table = "markstable"; 
-        Connection db = connectDb("com.mysql.jdbc.Driver","jdbc:mysql://igor.gold.ac.uk","kgraz001_jdbc","kgraz001","raketa3629?");
+        Connection db = connectDb("","","","","");
         Statement stmt = null;
         ArrayList<String> elem = new ArrayList<String>(); // create a new arraylist
 
