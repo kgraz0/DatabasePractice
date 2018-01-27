@@ -1,0 +1,1 @@
+Practice connecting to a database, performing table queries and extracting certain data from a table
